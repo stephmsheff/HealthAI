@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @stephmsheff
+- 👋 Hi, I’m Stephanee Sheffield, FNP-C
 - 👀 I’m interested in Health AI
-- 🌱 I’m currently learning Machine Learning and Python
+- 🌱 I’m currently learning Medical Device AI, Machine Learning, and Python
 - 💞️ I’m looking to collaborate on reducing health disparities and progessing health AI
 - 📫 How to reach me ...
 - 😄 Pronouns: She/Her
