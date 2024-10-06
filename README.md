@@ -2,9 +2,9 @@
 - 👀 I’m interested in Health AI
 - 🌱 I’m currently learning Medical Device AI, Machine Learning, and Python
 - 💞️ I’m looking to collaborate on reducing health disparities and progessing health AI
-- 📫 How to reach me ...
+- 📫 How to reach me info@worldhealthai.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Helping other achieve health is our happy place
 
 <!---
 stephmsheff/stephmsheff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
